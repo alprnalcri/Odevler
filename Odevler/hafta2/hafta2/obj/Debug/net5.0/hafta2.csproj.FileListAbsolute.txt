@@ -1,0 +1,16 @@
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.exe
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.deps.json
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.runtimeconfig.json
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.runtimeconfig.dev.json
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.dll
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\ref\hafta2.dll
+C:\Users\EPROM\source\repos\hafta2\hafta2\bin\Debug\net5.0\hafta2.pdb
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.csproj.AssemblyReference.cache
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.AssemblyInfoInputs.cache
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.AssemblyInfo.cs
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.csproj.CoreCompileInputs.cache
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.dll
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\ref\hafta2.dll
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.pdb
+C:\Users\EPROM\source\repos\hafta2\hafta2\obj\Debug\net5.0\hafta2.genruntimeconfig.cache
